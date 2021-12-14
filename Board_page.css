@@ -1,0 +1,29 @@
+body {
+    background-image: url("https://img.wallpapersafari.com/desktop/1920/1080/38/80/mpVP6k.jpg");
+    background-color: #cccccc;
+   }
+   ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-image: linear-gradient(to top right, rgb(226, 0, 0), rgb(255, 217, 0));
+  }
+  
+  li a {
+    display: block;
+    color: rgb(255, 255, 255);
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color on hover */
+  li a:hover {
+    background-color: rgb(182, 3, 3);
+    color: white;
+  }
+  #Writing{
+  font-weight: bold;
+font-size: large;
+color:white
+}
